@@ -5,5 +5,5 @@ module.exports = {
     setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
     collectCoverage: true,
     coverageReporters: ['html'],
-    coverageDirectory: 'coverage/lms-app',
+    coverageDirectory: 'coverage/client',
   };
